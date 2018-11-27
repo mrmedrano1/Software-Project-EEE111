@@ -1,4 +1,7 @@
 # Software-Project-EEE111
+
+Name: Michael R. Medrano
+
 Main file: dankfilters.py
 
 reference for filters:
